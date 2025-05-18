@@ -33,7 +33,9 @@ a {
 img {
     position: left;
     height: auto;
-    width: 350px;
+    width: 300px;
+    margin-top: 20px;
+    margin-left: 10px;
 }
 
 nav {
